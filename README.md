@@ -16,3 +16,5 @@
 
 Por ultimo, para cachar cuando un mod tenga errores, el server se caiga o cualquier cosa
 <a id="Link al discord del servidor">https://discord.gg/NtV6nWxY</>
+
+<a id="Hyperlink example - Mordhau Discord">https://discord.gg/mordhau</>
